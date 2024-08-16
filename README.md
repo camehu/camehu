@@ -22,12 +22,6 @@
   <img align="center alt="icone javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center alt="icone javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center alt="icone javascript" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-          
-          
-          
-          
-          
-          
-  
-          
 </div>
+
+##
