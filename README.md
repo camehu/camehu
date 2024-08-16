@@ -2,8 +2,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=camehu&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=camehu&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: vue-dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=camehu&show_icons=true"
